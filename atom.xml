@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>志敏的博客</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://shenzhim.github.io/"/>
+  <updated>2019-05-07T09:29:41.583Z</updated>
+  <id>https://shenzhim.github.io/</id>
+  
+  <author>
+    <name>志敏</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>在Github pages上的首篇文章</title>
+    <link href="https://shenzhim.github.io/blog/01/"/>
+    <id>https://shenzhim.github.io/blog/01/</id>
+    <published>2019-04-30T06:53:45.119Z</published>
+    <updated>2019-05-07T09:29:41.583Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="博客文章"><a href="#博客文章" class="headerlink" title="博客文章"></a>博客文章</h2><p>这是迁移到github pages上写的第一篇文章，就不打算写一些技术文章了，主要说说怎么会迁移到这里的吧。。。</p><p>在2015年的时候，那会刚了解到nodejs语言（虽然已经出来有一段时间了）。用js写服务端，对于当时的我来说有点不可思议，或者说不敢想象的。</p><p>为了体验一下nodejs的魅力，我决定用nodejs来搭建一个博客服务器。于是花了点时间搭了一个基于express框架的静态博客，随后针对vue2.0的发布，又将前端改成了基于vue-router的spa单页应用。</p><p>渐渐的 这个博客平台成了我 技术尝鲜的一个小小的平台（比如pwa，性能优化）。</p><p>同时，基于这个平台，我也时常写一些技术文章。大概是 1月1篇的节奏，到现在差不多也有50多篇了，谈不上非常的高产。但是，时常对一些自己接触的技术有一些</p><p>思考和总结并记录下来形成文章，这本身就是一件非常好的事情。我想，我还是会坚持下去的。。。</p><h3 id="为何迁移"><a href="#为何迁移" class="headerlink" title="为何迁移"></a>为何迁移</h3><p>就在前几天，腾讯云上的服务器中的mysql数据库被黑了，文章数据全部丢失，并被勒索0.1个比特币。。。由于我并没有定时备份，并没有开启mysql日志系统，恢复数据基本不太可能了！！！</p><p>现在回头想想，主要还是因为平时安全意识不够，也没想到一个小小的博客网站都会被黑，没有引起足够的重视。</p><p>关于安全方面，可以从这几方面来着手加强</p><ul><li>mysql数据库一定要备份，备份，备份。。。</li><li>mysql数据库尽量不要开启外网权限</li><li>mysql数据库的密码一定要尽可能复杂，并且不要使用默认端口号</li><li>mysql数据库开启日志系统</li></ul><p>不过，从另一方面来说，正是由于这个事情的发生，整好就迁移到github pages上去吧（安慰安慰自己）。</p><p>其实，早就想往github pages上迁移了，苦于太懒，这个事情一直搁置着。现在，应该没有理由再懒下去了吧。。。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;博客文章&quot;&gt;&lt;a href=&quot;#博客文章&quot; class=&quot;headerlink&quot; title=&quot;博客文章&quot;&gt;&lt;/a&gt;博客文章&lt;/h2&gt;&lt;p&gt;这是迁移到github pages上写的第一篇文章，就不打算写一些技术文章了，主要说说怎么会迁移到这里的吧。。。&lt;/p&gt;
+&lt;
+      
+    
+    </summary>
+    
+      <category term="blog" scheme="https://shenzhim.github.io/categories/blog/"/>
+    
+    
+      <category term="技术" scheme="https://shenzhim.github.io/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
+  
+</feed>
